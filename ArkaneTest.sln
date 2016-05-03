@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaneTest.CSharp.Plugins", "ArkaneTest.CSharp.Plugins.csproj", "{7B99CC55-F7B2-9C9A-9C81-E63906916327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaneTest.CSharp", "ArkaneTest.CSharp.csproj", "{8D822A69-7F55-A461-D3B5-A7A7577F05B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaneTest.CSharp.Editor", "ArkaneTest.CSharp.Editor.csproj", "{DE72A02E-8F53-E33F-4260-7DBCBA368C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B99CC55-F7B2-9C9A-9C81-E63906916327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B99CC55-F7B2-9C9A-9C81-E63906916327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B99CC55-F7B2-9C9A-9C81-E63906916327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B99CC55-F7B2-9C9A-9C81-E63906916327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D822A69-7F55-A461-D3B5-A7A7577F05B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D822A69-7F55-A461-D3B5-A7A7577F05B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D822A69-7F55-A461-D3B5-A7A7577F05B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D822A69-7F55-A461-D3B5-A7A7577F05B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE72A02E-8F53-E33F-4260-7DBCBA368C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE72A02E-8F53-E33F-4260-7DBCBA368C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE72A02E-8F53-E33F-4260-7DBCBA368C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE72A02E-8F53-E33F-4260-7DBCBA368C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
